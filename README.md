@@ -1,8 +1,8 @@
-# Arduino Plant Monitor
-Simple Arduino code to obtain temperature, brightness, soil moisture, water level and control a water pump. Uses Blynk legacy platform (which is unfortunately retired now).
+# Plant Monitor
+Simple system using ESP32 to obtain temperature, brightness, soil moisture, water level and control a water pump. Uses Blynk legacy platform (which is unfortunately retired now).
 
 ## Components
-- Arduino Uno
+- ESP32
 - DHT22
 - Moisture sensor module
 - LDR sensor
